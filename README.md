@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/abhijeetmahara7" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeetmahara7?logo=twitter&style=for-the-badge" alt="abhijeetmahara7" /></a> </p>
 
-<img src="https://www.perforce.com/sites/default/files/image/2018-07/image-blog-will-ai-replace-programmers.jpg" align="right" width = 400px />
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*nhFc1pNVP-o25Bvt.gif" align="right" width = 400px />
 
 - 🔭 I’m currently working on **Custom Conversational AI for Industry**
 
