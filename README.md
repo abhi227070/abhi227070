@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **abhi227070/abhi227070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
