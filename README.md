@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **"As an AI engineer, I've trained models to generate poetry, write music, and even create artwork! 🤖🎨🎶 Excited to continue pushing the boundaries of AI creativity and innovation! #AIExplorer"**
 
+<img src = "https://lottie.host/embed/d1fed64e-90e1-4ec9-9f34-2ff4749acf0f/BAvEow4Urq.json" align = "right" width = 400px>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhijeetmahara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetmahara7" height="30" width="40" /></a>
