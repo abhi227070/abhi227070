@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi227070&label=Profile%20views&color=0e75b6&style=flat" alt="abhi227070" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhijeetmahara7" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeetmahara7?logo=twitter&style=for-the-badge" alt="abhijeetmahara7" /></a> </p>
+
+<img src="https://www.perforce.com/sites/default/files/image/2018-07/image-blog-will-ai-replace-programmers.jpg" align="right" width = 400px />
 
 - 🔭 I’m currently working on **Custom Conversational AI for Industry**
 
@@ -32,7 +35,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **"As an AI engineer, I've trained models to generate poetry, write music, and even create artwork! 🤖🎨🎶 Excited to continue pushing the boundaries of AI creativity and innovation! #AIExplorer"**
 
-<img src = "https://lottie.host/embed/d1fed64e-90e1-4ec9-9f34-2ff4749acf0f/BAvEow4Urq.json" align = "right" width = 400px>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhijeetmahara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetmahara7" height="30" width="40" /></a>
